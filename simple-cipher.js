@@ -1,0 +1,4 @@
+var  = function () {
+};
+
+module.exports = ;
